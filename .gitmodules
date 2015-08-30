@@ -1,15 +1,20 @@
 [submodule "static"]
 	path = static
 	url = git@bitbucket.org:bertzzie/obrolansubuh-static.git
+	branch = master
 [submodule "models"]
 	path = models
 	url = git@bitbucket.org:bertzzie/obrolansubuh-models.git
+	branch = master
 [submodule "backend"]
 	path = backend
 	url = git@bitbucket.org:bertzzie/obrolansubuh-backend.git
+	branch = master
 [submodule "modules"]
 	path = modules
 	url = git@bitbucket.org:bertzzie/obrolansubuh-module.git
+	branch = master
 [submodule "frontend"]
 	path = frontend
 	url = git@bitbucket.org:bertzzie/obrolansubuh-frontend.git
+	branch = master
