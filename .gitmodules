@@ -10,3 +10,6 @@
 [submodule "modules"]
 	path = modules
 	url = https://bitbucket.org/bertzzie/obrolansubuh-module
+[submodule "frontend"]
+	path = frontend
+	url = git@bitbucket.org:bertzzie/obrolansubuh-frontend.git
