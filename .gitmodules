@@ -9,7 +9,7 @@
 	url = git@bitbucket.org:bertzzie/obrolansubuh-backend.git
 [submodule "modules"]
 	path = modules
-	url = https://bitbucket.org/bertzzie/obrolansubuh-module
+	url = git@bitbucket.org:bertzzie/obrolansubuh-module.git
 [submodule "frontend"]
 	path = frontend
 	url = git@bitbucket.org:bertzzie/obrolansubuh-frontend.git
